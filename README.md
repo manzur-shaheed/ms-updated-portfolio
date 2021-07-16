@@ -1,26 +1,20 @@
-# Manzur's Portfolio
+# Manzur's Updated Portfolio
 
 Portfolio page for Manzur Shaheed. Page shows a short paragraph about me, my works and how to contact me. There is also a link to my resume in PDF.
 
 ## Getting Started
-Live at: https://manzur-shaheed.github.io/ms-portfolio/
+Live at: https://manzur-shaheed.github.io/ms-updated-portfolio/
 
 
-Code is at: https://github.com/manzur-shaheed/ms-portfolio
+Code is at: https://github.com/manzur-shaheed/ms-updated-portfolio
 
-You can copy it from my github pages by cloning [github link](git@github.com:manzur-shaheed/ms-portfolio.git).
+You can copy it from my github pages by cloning [github link](git@github.com:manzur-shaheed/ms-updated-portfolio.git).
 
 ## Deployment
 
 The following image shows the web application's appearance and functionality:
 
-Desktop View:
-
-![MS Portfolio page](./assets/images/ms-profile.png)
-
-Mobile View:
-
-![MS Portfolio page](./assets/images/mobile-ms-portfolio.png)
+![MS Portfolio page](./assets/images/ms-updated-portfolio.gif)
 
 ## Built With
 
